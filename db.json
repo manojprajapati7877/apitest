@@ -71,6 +71,15 @@
             "category": "cloths",
             "brand": "tommy",
             "photo": "https://herakoi.com/wp-content/uploads/sites/3/2020/12/dummy-product-09.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Realmee",
+            "color": "green",
+            "price": 26750,
+            "category": "mobile",
+            "brand": "realme",
+            "photo": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQmhBkGOSoRC-E6OdOxC2g5QgYcmEJK9iw4THHlq0zz60PXjnycjJ1URo1WEpVbw-iX7db3E7J-uP87okZkJ1ZW9MR7Q-KVoFc1RpUsiWdsf8RsXnlK2H2_lUOtUFLvoIbJ4bI&usqp=CAc"
         }
     ]
 }
