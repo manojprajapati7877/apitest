@@ -1,85 +1,194 @@
 {
-    "products": [
-        {
-            "id": 1,
-            "name": "Samsung M 40",
-            "color": "black",
-            "price": 15000,
-            "category": "mobile",
-            "brand": "Samsung",
-            "photo": "https://herakoi.com/wp-content/uploads/sites/3/2020/12/dummy-product-09.jpg"
-        },
-        {
-            "id": 2,
-            "name": "Samsung F20",
-            "color": "white",
-            "price": 50000,
-            "category": "Mobile",
-            "brand": "Samsung",
-            "photo": "https://herakoi.com/wp-content/uploads/sites/3/2020/12/dummy-product-09.jpg"
-        },
-        {
-            "id": 3,
-            "name": "T-shirt",
-            "color": "red",
-            "price": 5000,
-            "category": "cloths",
-            "brand": "Nike",
-            "photo": "https://herakoi.com/wp-content/uploads/sites/3/2020/12/dummy-product-09.jpg"
-        },
-        {
-            "id": 4,
-            "name": "Sports Shoes",
-            "color": "red and black",
-            "price": 8000,
-            "category": "rebook",
-            "brand": "Nike",
-            "photo": "https://herakoi.com/wp-content/uploads/sites/3/2020/12/dummy-product-09.jpg"
-        },
-        {
-            "id": 5,
-            "name": "530 laptop",
-            "color": "white",
-            "price": 88000,
-            "category": "laptop",
-            "brand": "HP",
-            "photo": "https://herakoi.com/wp-content/uploads/sites/3/2020/12/dummy-product-09.jpg"
-        },
-        {
-            "id": 6,
-            "name": "earphone - 10",
-            "color": "green",
-            "price": 800,
-            "category": "earphone",
-            "brand": "mivi",
-            "photo": "https://herakoi.com/wp-content/uploads/sites/3/2020/12/dummy-product-09.jpg"
-        },
-        {
-            "id": 7,
-            "name": "black shirt",
-            "color": "black",
-            "price": 1800,
-            "category": "cloths",
-            "brand": "tommy",
-            "photo": "https://herakoi.com/wp-content/uploads/sites/3/2020/12/dummy-product-09.jpg"
-        },
-        {
-            "id": 8,
-            "name": "green shirt",
-            "color": "green",
-            "price": 1900,
-            "category": "cloths",
-            "brand": "tommy",
-            "photo": "https://herakoi.com/wp-content/uploads/sites/3/2020/12/dummy-product-09.jpg"
-        },
-        {
-            "id": 9,
-            "name": "Realmee",
-            "color": "green",
-            "price": 26750,
-            "category": "mobile",
-            "brand": "realme",
-            "photo": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQmhBkGOSoRC-E6OdOxC2g5QgYcmEJK9iw4THHlq0zz60PXjnycjJ1URo1WEpVbw-iX7db3E7J-uP87okZkJ1ZW9MR7Q-KVoFc1RpUsiWdsf8RsXnlK2H2_lUOtUFLvoIbJ4bI&usqp=CAc"
-        }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "name": "Colgate 500gm Strong Teeth Dental Cream Toothpaste 500 g Saver Pack",
+      "color": "blue",
+      "price": 219,
+      "category": "toothpaste",
+      "brand": "Colgate",
+      "discount": 25,
+      "photo": "https://www.jiomart.com//images/product/original/491055460/colgate-strong-teeth-dental-cream-toothpaste-500-g-saver-pack-product-images-o491055460-p491055460-0-202203151056.jpg?im=Resize=(150,150)"
+    },
+    {
+      "id": 2,
+      "name": "Gulab Gold 15 L Filtered Groundnut Oil ",
+      "color": "white",
+      "price": "2,669.00",
+      "category": "oil",
+      "brand": "Gulab ",
+      "photo": "https://www.jiomart.com//images/product/original/490022514/gulab-gold-filtered-groundnut-oil-15-l-product-images-o490022514-p490022514-0-202206301905.jpg?im=Resize=(150,150)"
+    },
+    {
+      "id": 3,
+      "name": "Maggi 560 g 2-Minute Masala Instant Noodles",
+      "color": "yellow",
+      "price": "101.00",
+      "category": "Noodles",
+      "brand": "Maggi",
+      "photo": "https://www.jiomart.com//images/product/original/490003834/maggi-2-minute-masala-instant-noodles-560-g-product-images-o490003834-p490003834-0-202203150702.jpg?im=Resize=(150,150)"
+    },
+    {
+      "id": 4,
+      "name": "Parle-G 1 kg Gold Biscuits",
+      "color": "yellow",
+      "price": 120.0,
+      "category": "Biscuits ",
+      "brand": "Parle",
+      "photo": "https://www.jiomart.com//images/product/original/491335633/parle-g-gold-biscuits-1-kg-product-images-o491335633-p491335633-0-202303221149.jpg?im=Resize=(150,150)"
+    },
+    {
+      "id": 5,
+      "name": "Pears Pure 125 g & Gentle Soap with Natural Oils (Buy 4 Get 1 Free)",
+      "color": "yellow",
+      "price": 272.0,
+      "category": "Soap",
+      "brand": "Pears",
+      "photo": "https://www.jiomart.com//images/product/original/491085658/pears-pure-gentle-soap-with-natural-oils-125-g-buy-4-get-1-free-product-images-o491085658-p491085658-0-202203170226.jpg?im=Resize=(150,150)"
+    },
+    {
+      "id": 6,
+      "name": "Closeup Everfresh+ Red Hot Gel Toothpaste 150 g (Pack of 2)",
+      "color": "red",
+      "price": 140.0,
+      "category": "Toothpaste",
+      "brand": "Closeup",
+      "photo": "https://www.jiomart.com/images/product/original/490008332/closeup-everfresh-red-hot-gel-toothpaste-150-g-pack-of-2-product-images-o490008332-p490008332-0-202306071847.jpg?im=Resize=(150,150)"
+    },
+    {
+      "id": 7,
+      "name": "Tata Iodised Salt 1 kg",
+      "color": "black",
+      "price": 25.0,
+      "category": "Salt ",
+      "brand": "Tata",
+      "photo": "https://www.jiomart.com/images/product/original/490000073/tata-iodised-salt-1-kg-product-images-o490000073-p490000073-0-202302131739.jpg?im=Resize=(150,150)"
+    },
+    {
+      "id": 8,
+      "name": "Gulab 5 L Gold Filtered Groundnut Oil ",
+      "color": "yellow",
+      "price": 889.0,
+      "category": "oil",
+      "brand": "Gulab",
+      "photo": "https://www.jiomart.com//images/product/original/490022513/gulab-filtered-groundnut-oil-5-l-product-images-o490022513-p490022513-0-202206301905.jpg?im=Resize=(150,150)"
+    },
+    {
+      "id": 9,
+      "name": "Wagh Bakri Leaf Tea 1 kg",
+      "color": "black",
+      "price": 486.0,
+      "category": "Tea ",
+      "brand": "Wagh Bakri",
+      "photo": "https://www.jiomart.com/images/product/original/490073718/wagh-bakri-leaf-tea-1-kg-product-images-o490073718-p490073718-0-202203170743.jpg?im=Resize=(150,150)"
+    },
+    {
+      "id": 10,
+      "name": "Gaay Chhap Besan 1 kg",
+      "color": "yellow",
+      "price": 84.0,
+      "category": "Besan  ",
+      "brand": "Gaay Chhap",
+      "photo": "https://www.jiomart.com/images/product/original/490024287/gaay-chhap-besan-1-kg-product-images-o490024287-p490024287-0-202203170340.jpg?im=Resize=(150,150)"
+    },
+    {
+      "id": 11,
+      "name": "Gaay Chhap Besan 500 g",
+      "color": "yellow",
+      "price": 45.0,
+      "category": "Besan  ",
+      "brand": "Gaay Chhap",
+      "photo": "https://www.jiomart.com/images/product/original/490024286/gaay-chhap-besan-500-g-product-images-o490024286-p490024286-0-202203151439.jpg?im=Resize=(150,150)"
+    },
+    {
+      "id": 12,
+      "name": "Dove 125 g Cream Beauty Bathing Bar (Buy 4 Get 1 Free)",
+      "color": "white",
+      "price": 336.0,
+      "category": "Soap",
+      "brand": "Dove",
+      "photo": "https://www.jiomart.com//images/product/original/491961317/dove-cream-beauty-bathing-bar-125-g-buy-4-get-1-free-product-images-o491961317-p590287499-0-202306061303.jpg?im=Resize=(150,150)"
+    },
+    {
+      "id": 12,
+      "name": "Kissan 1.2 kg Fresh Tomato Ketchup",
+      "color": "red",
+      "price": 130.0,
+      "category": "Ketchup",
+      "brand": "Kissan",
+      "photo": "https://www.jiomart.com//images/product/original/492391349/kissan-fresh-tomato-ketchup-1-2-kg-product-images-o492391349-p590809928-0-202305062120.jpg?im=Resize=(150,150)"
+    },
+    {
+      "id": 13,
+      "name": "Patanjali Dant Kanti Natural Toothpaste 200 g + 100 g",
+      "color": "yellow",
+      "price": 145.0,
+      "category": "Toothpaste",
+      "brand": "Patanjali",
+      "photo": "https://www.jiomart.com//images/product/original/492391349/kissan-fresh-tomato-ketchup-1-2-kg-product-images-o492391349-p590809928-0-202305062120.jpg?im=Resize=(150,150)"
+    },
+    {
+      "id": 14,
+      "name": "Maaza Mango Drink 1.2 L",
+      "color": "yellow",
+      "price": 57.0,
+      "category": "Drink",
+      "brand": "Maaza",
+      "photo": "https://www.jiomart.com/images/product/original/490001795/maaza-mango-drink-1-2-l-product-images-o490001795-p490001795-0-202301272130.jpg?im=Resize=(360,360)"
+    },
+    {
+      "id": 15,
+      "name": "Maaza Mango Drink 1.2 L",
+      "color": "yellow",
+      "price": 57.0,
+      "category": "Drink",
+      "brand": "Maaza",
+      "photo": "https://www.jiomart.com/images/product/original/490001795/maaza-mango-drink-1-2-l-product-images-o490001795-p490001795-0-202301272130.jpg?im=Resize=(360,360)"
+    },
+    {
+      "id": 16,
+      "name": "Coca Cola 750 ml",
+      "color": "black",
+      "price": 33.0,
+      "category": "Drink",
+      "brand": "Coca Cola",
+      "photo": "https://www.jiomart.com/images/product/original/491085932/coca-cola-750-ml-product-images-o491085932-p491085932-0-202203150148.jpg?im=Resize=(150,150)"
+    },
+    {
+        "id": 17,
+        "name": "Slice Mango Drink 1.75 L",
+        "color": "yellow",
+        "price": 90.00,
+        "category": "Drink",
+        "brand": "Slice",
+        "photo": "https://www.jiomart.com/images/product/original/491086175/tropicano-slice-mango-drink-1-75-l-product-images-o491086175-p491086175-0-202207272007.jpg?im=Resize=(150,150)"
+      },
+      {
+        "id": 18,
+        "name": "Frooti Mango Drink 1.2 L",
+        "color": "yellow",
+        "price": 63.00,
+        "category": "Drink",
+        "brand": "Frooti",
+        "photo": "https://www.jiomart.com/images/product/original/490537395/frooti-mango-drink-1-2-l-product-images-o490537395-p490537395-0-202304281535.jpg?im=Resize=(150,150)"
+      },
+      {
+        "id": 19,
+        "name": "Parle Krack Jack Biscuits 400 g",
+        "color": "yellow",
+        "price": 70.00,
+        "category": "Biscuits ",
+        "brand": "Parle",
+        "photo": "https://www.jiomart.com/images/product/original/491439007/parle-krack-jack-biscuits-400-g-product-images-o491439007-p491439007-0-202203151355.jpg?im=Resize=(360,360)"
+      },
+      {
+        "id": 20,
+        "name": "Sunfeast Dark 300 g Fantasy Original Choco Filled Cookie",
+        "color": "choco",
+        "price": 113.00,
+        "category": "Biscuits ",
+        "brand": "Parle",
+        "photo": "https://www.jiomart.com/images/product/original/491319789/sunfeast-dark-fantasy-original-choco-filled-biscuits-300-g-product-images-o491319789-p491319789-0-202205301919.jpg?im=Resize=(360,360)"
+      }
+  ]
 }
